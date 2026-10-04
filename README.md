@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hai, saya Fariz Thoriq 👋
 
-<!--
-**Thoriq2805/Thoriq2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pelajar SMK Taruna Bhakti, Depok
 
-Here are some ideas to get you started:
+💻 Sedang belajar menjadi **Software Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Punya latar belakang desain (DKV) — jadi saya paham sisi visual & teknis sekaligus
+
+📚 Terus belajar, terus berkembang, satu baris kode setiap hari
+
+---
+
+### 🚀 Tentang Saya
+- Saya tertarik membangun aplikasi dan website dari nol
+- Sebelumnya aktif di dunia Desain Komunikasi Visual (DKV), sekarang fokus memperdalam dunia pemrograman
+- Suka belajar hal baru, terbuka untuk kolaborasi project kecil maupun belajar bareng
+
+### 🛠️ Sedang Dipelajari
+- HTML, CSS, JavaScript
+
+### 📌 Project Pilihan
+> Project-project terbaik saya bisa dilihat di bagian **Pinned** profil ini
+
+### 📫 Hubungi Saya
+- Instagram: [@farizthoriq88](https://www.instagram.com/farizthoriq88/)
+
+---
+⭐ *Dari desainer visual menjadi software engineer — proses ini yang membentuk cara saya berpikir dalam membangun sesuatu.*
